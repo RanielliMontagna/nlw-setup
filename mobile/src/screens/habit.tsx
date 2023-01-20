@@ -3,7 +3,7 @@ import { ScrollView, Text, View } from 'react-native'
 import dayjs from 'dayjs'
 
 import { BackButton } from '../components/backButton'
-import { ProgressBar } from '../components/progress.Bar'
+import { ProgressBar } from '../components/progressBar'
 import { Checkbox } from '../components/checkbox'
 
 interface Params {
